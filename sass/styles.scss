@@ -22,12 +22,13 @@ body {
 }
 
 //*******IMAGE*****************
+
 .images {
-    float: left;
+    width: 0%;
 }
 
-.imageOne {
-    width: 100%;
+.bg {
+    width: 425px;
 }
 .arrow-left,
 .arrow-right {
@@ -39,8 +40,6 @@ body {
     padding: 10px;
     margin-top: -40px;
     margin-left: -55px;
-    user-select: none;
-    -webkit-user-select: none;
 }
 .arrow-right {
     margin-left: 420px;
